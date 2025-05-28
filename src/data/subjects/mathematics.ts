@@ -4,7 +4,7 @@ import { Chapter } from '../types';
 export const mathematicsChapters: 
 Chapter[] = [
 {
-  id: 'functions',
+  id: 'functions..ch',
   name: 'Functions',
   description: 'Understanding mathematical functions and their properties',
   questions: [
